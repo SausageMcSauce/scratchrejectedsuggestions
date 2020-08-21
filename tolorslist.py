@@ -52,5 +52,45 @@ This suggestion extends to all social actions, including views, loves, favorites
 (number of [loves v] :: sensing)
 [/scratchblocks]
 [/quote]
+""",
+ "1.6": """[quote="The Official List of Rejected Suggestions"]
+ [b]1.6 [url=https://scratch.mit.edu/discuss/topic/348978/?page=1#post-3528653]Cloud lists[/url][/b]
+Cloud variables currently have several restrictions.  There can be at most 10 cloud variables per project due to server costs.  New Scratchers cannot use cloud variables, for it is easy to misuse them.  Cloud variables can only support up to 256 numeric digits to restrict the creation of chat projects; for more information, see #3.1 on this list.  
+
+This block would allow you to create lists to be stored on the servers for everyone to see, similar to cloud variables.  However, cloud lists would require similar restrictions as listed above, and the issues currently presented with cloud variables would only grow with the addition of cloud lists.  You can still use cloud variables to create a list which contains entries everyone can see, but the Scratch Team will not be adding an easy official way to make cloud lists.
+
+[scratchblocks]
+(☁ list :: list)
+[/scratchblocks]
+[/quote]""",
+ "1.7": """[quote="The Official List of Rejected Suggestions"]
+ [b]1.7 [url=https://scratch.mit.edu/discuss/topic/367418/?page=2#post-3684338]2D lists[/url][/b]
+2D lists, also known as 2D arrays, nested lists, or matrices, are a type of data structure that allows you to put an entire list as an element of another list; that is, it allows you to put lists inside of lists.  These sorts of data structures are used widely in other programming languages.
+
+This block, and others, would allow you to create 2D lists to store information, sort of like a table.  However, this is too complicated for what is supposed to be an introductory programming language.  In addition, there are workarounds possible by using an ordinary list and an indexing function.  For those who are interested, it may be worth checking out [url=https://snap.berkeley.edu/]Snap![/url].  It is a block-based programming language designed for more experienced programmers, and has more advanced data structures than Scratch does.
+
+[scratchblocks]
+add () to sublist () of [list v] :: list
+[/scratchblocks]
+[/quote]""",
+ "1.8": """[quote="The Official List of Rejected Suggestions"]
+ [b]1.8 [url=https://scratch.mit.edu/discuss/topic/982/?page=6#post-272115]3D Scratch[/url][/b]
+This block, and others, could be used with a z-axis in the project stage to make it easier to create 3D projects.  But, Scratch is a language that is designed to be as easy as possible for beginners to learn.  Adding 3D features would make the language more difficult for beginners to understand, and a 3D engine is not exactly the purpose of Scratch.  This suggestion also includes the possibility for a virtual-reality features in Scratch, or "Scratch VR."  A lot of the same difficulties come up.
+
+There is a similar program to Scratch that contains block programming with 3D features, called [url=https://education.mit.edu/project/starlogo-tng/]Starlogo TNG[/url]. You can also try [url=http://www.alice.org/]Alice[/url]; it is not exactly like Scratch, but has some similar features.
+
+[scratchblocks]
+go to x: () y: () z: () :: motion
+[/scratchblocks]
+[/quote]""",
+ "1.9": """
+[quote="The Official List of Rejected Suggestions"]
+[b]1.9 [url=https://scratch.mit.edu/discuss/topic/97802/?page=4#post-3834969]Pi reporter block[/url][/b]
+This block would return the mathematical constant pi (or π).  Although used extensively in math, it is not used very commonly in Scratch.  For those who do need to use pi, a decimal approximation is generally accurate enough.  Simply make a variable called "pi" and set it equal to 3.14159265.
+
+[scratchblocks]
+(pi :: operators)
+[/scratchblocks]
+[/quote]
 """
 }
