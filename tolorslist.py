@@ -23,4 +23,12 @@ when stop sign clicked :: events :: hat
 
 [/quote]
 """
+ "1.3": """[quote="The Official List of Rejected Suggestions"][b]1.3 [url=https://scratch.mit.edu/discuss/topic/355056/?page=1#post-3603084]"Pointing towards sprite" boolean block[/url][/b]
+This block would allow a sprite to detect if it is pointing towards another sprite.  However, it is also rather ambiguous; does it return true if the sprite is pointing in any direction towards another sprite, or strictly at the center of the sprite?  Either way, it is relatively easy to work around, and the workaround depends on how you want the block to work.
+
+[scratchblocks]
+<pointing towards [sprite v]? :: sensing>
+[/scratchblocks]
+[/quote]
+"
 }
