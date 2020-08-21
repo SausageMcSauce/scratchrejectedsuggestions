@@ -10,4 +10,4 @@ Documentation coming soon.
 
 This is currently a work in progress.
 
-If you download this repository, you can remove all files except main.py and tolorslist.py.
+If you download this repository, you can remove all files except main.py, tolorslist.py and keywordshandle.py.
