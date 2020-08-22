@@ -92,5 +92,35 @@ This block would return the mathematical constant pi (or π).  Although used ext
 (pi :: operators)
 [/scratchblocks]
 [/quote]
+""",
+ "1.10": """
+[quote="The Official List of Rejected Suggestions"]
+[b]1.10 [url=https://scratch.mit.edu/discuss/topic/419282/?page=1#post-4186455]"Control mouse pointer" block[/url][/b]
+This block, and others, could be used to hide the mouse pointer or change the way the mouse pointer looks in a project.  These blocks, however, do not significantly change the types of projects that can be created with Scratch; for more information, see [url=https://scratch.mit.edu/discuss/topic/190673/?page=5#post-3889314]this post[/url].  In addition, they may cause confusion to users, wondering where the mouse pointer went.  A feature to control the mouse pointer, including freezing it or preventing it from leaving the project screen, poses similar confusing problems.
+
+[scratchblocks]
+hide mouse pointer :: looks
+[/scratchblocks]
+[/quote]
+""",
+ "1.11": """
+[quote="The Official List of Rejected Suggestions"]
+[b]1.11 [url=https://scratch.mit.edu/discuss/topic/405581/?page=1#post-4034761]"Forever if" C block[/url][/b]
+This block was in the Scratch 1.4 editor, and worked the same as putting an "if" block inside the existing "forever" loop.  It was removed in Scratch 2.0 because many beginning Scratchers found it to be confusing.  The aforementioned workaround, evidently, is simple and more intuitive.
+
+[scratchblocks]
+forever if <> { } :: control cap
+[/scratchblocks]
+
+[/quote]
+""",
+ "1.12": """
+[quote="The Official List of Rejected Suggestions"]
+[b]1.12 [url=https://scratch.mit.edu/discuss/topic/411208/?page=1#post-4094599]Letters in cloud variables[/url][/b]
+Some users would like an easy way to set cloud variables to values which include letters.  Such a feature was present in the beta version of Scratch 2.0.  However, allowing letters in cloud variables would cause a lot of moderation issues.  For instance, it would make it too easy to make inappropriate cloud chat projects; for more information, see #3.1 on this list.  Hence the feature was removed, and so cloud variables can now only be set to numeric values.
+
+By encoding and decoding, it is possible to simulate letters in cloud variables, but in reality they are just using numbers in cloud variables and letters in normal variables.
+
+[/quote]
 """
 }
