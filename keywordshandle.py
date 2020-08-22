@@ -15,4 +15,4 @@ def keyword_handler(original_selected):
   elif selected in ["forever if"]: return tolorslist["1.11"]
   elif selected in ["cloud letters"]: return tolorslist["1.12"]
   else:
-    return "Nothing matched what you searched. Rerun the program to try again"
+    return "Nothing matched what you searched. Rerun the program to try again."
